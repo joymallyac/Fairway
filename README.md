@@ -1,5 +1,9 @@
 
-## This is repo created for FSE 2020
+## This repo is created for ESEC/FSE 2020 paper - [Fairway: A Way to Build Fair ML Software](https://arxiv.org/abs/2003.10354)
+
+
+
+Folder Structure Details -
 
 * **Split_On_Protected_Attribute** folder contains code for the pre-processing step
 * **Multiobjective Optimization** folder contains code for FAIR_FLASH

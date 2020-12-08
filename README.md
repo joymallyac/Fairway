@@ -46,5 +46,11 @@ Some datasets are not classification dataset -
 
 2> NYPD (New York City Police Department) - https://www1.nyc.gov/site/nypd/stats/reports-analysis/stopfrisk.page
 
+3> Communities and Crime Data Set - https://archive.ics.uci.edu/ml/datasets/communities+and+crime
+
+4> Health of Populations - https://gitlab.com/labsysmed/dissecting-bias/-/tree/master
+
+5> UFRGS Entrance Exam and GPA Data - https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/O35FW8
+
 
 

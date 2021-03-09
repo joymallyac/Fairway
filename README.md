@@ -1,5 +1,5 @@
 
-## This repo is created for ESEC/FSE 2020 paper - [Fairway: A Way to Build Fair ML Software](https://arxiv.org/abs/2003.10354)
+## This repo is created for ESEC/FSE 2020 paper - [Fairway: A Way to Build Fair ML Software](https://dl.acm.org/doi/abs/10.1145/3368089.3409697)
 
 
 
